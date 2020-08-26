@@ -1,0 +1,15 @@
+apiVersion: v2
+publisher: pivotal
+name: vscode-spring-boot
+version: 1.20.0
+type: VS Code extension
+displayName: vscode-spring-boot
+title: VS Code Language Server for Spring Boot
+description: VSCode extension and Language Server providing support for working with Spring Boot
+icon: https://pivotal.gallerycdn.vsassets.io/extensions/pivotal/vscode-spring-boot/1.20.0/1596066136898/Microsoft.VisualStudio.Services.Icons.Default
+repository: https://github.com/spring-projects/sts4.git
+category: Linter
+firstPublicationDate: "2020-07-30"
+spec:
+  extensions:
+    - https://github.com/gimudong/vsix/raw/master/Pivotal.vscode-spring-boot-1.20.0.vsix
