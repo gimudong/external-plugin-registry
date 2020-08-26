@@ -4,11 +4,23 @@
     "displayName": "Prettier",
     "id": "prettier/prettier-vscode/5.1.3",
     "links": {
-      "self": "/external-plugin-registry/prettier/vscode-prettier/5.1.3/meta.yaml"
+      "self": "/external-plugin-registry/prettier/vscode-prettier/5.1.3/"
     },
     "name": "prettier-vscode",
     "publisher": "prettier",
     "type": "VS Code extension",
     "version": "5.1.3"
+  },
+    {
+    "description": "VSCode extension and Language Server providing support for working with Spring Boot",
+    "displayName": "vscode-spring-boot",
+    "id": "pivotal/vscode-spring-boot/1.20.0",
+    "links": {
+      "self": "/external-plugin-registry/pivotal/vscode-spring-boot/1.20.0/"
+    },
+    "name": "vscode-spring-boot",
+    "publisher": "pivotal",
+    "type": "VS Code extension",
+    "version": "1.20.0"
   }
 ]
