@@ -4,7 +4,7 @@
     "displayName": "Prettier",
     "id": "prettier/prettier-vscode/5.1.3",
     "links": {
-      "self": "/external-plugin-registry/prettier/vscode-prettier/5.1.3/"
+      "self": "/external-plugin-registry/prettier/vscode-prettier/5.1.3/meta.yaml"
     },
     "name": "prettier-vscode",
     "publisher": "prettier",
@@ -16,7 +16,7 @@
     "displayName": "vscode-spring-boot",
     "id": "pivotal/vscode-spring-boot/1.20.0",
     "links": {
-      "self": "/external-plugin-registry/pivotal/vscode-spring-boot/1.20.0/"
+      "self": "/external-plugin-registry/pivotal/vscode-spring-boot/1.20.0/meta.yaml"
     },
     "name": "vscode-spring-boot",
     "publisher": "pivotal",
