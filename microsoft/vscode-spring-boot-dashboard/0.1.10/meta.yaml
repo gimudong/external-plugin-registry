@@ -1,0 +1,15 @@
+apiVersion: v2
+publisher: microsoft
+name: vscode-spring-boot-dashboard
+version: 0.1.10
+type: VS Code extension
+displayName: vscode-spring-boot-dashboard
+title: Spring Boot Dashboard
+description: Spring Boot Dashboard for VS Code
+icon: https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.1.10/1589309112341/Microsoft.VisualStudio.Services.Icons.Default
+repository: https://github.com/microsoft/vscode-spring-boot-dashboard.git
+category: Other
+firstPublicationDate: "2020-05-13"
+spec:
+  extensions:
+    - https://github.com/gimudong/vsix/raw/master/vscjava.vscode-spring-boot-dashboard-0.1.10.vsix
